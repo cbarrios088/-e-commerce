@@ -1,0 +1,90 @@
+@media (max-width: 768px) and (min-width: 400px) {
+    
+    .busqueda {
+        margin-right: 10%;
+       display: none;
+    
+    }
+    
+    .busqueda_campo {
+        display: none;
+    
+    }
+    .texto h1 {
+        font-size: 22px;
+        margin-left: 1rem;
+    }
+    .texto p {
+        font-size: 0.8rem;
+        margin-left: 1rem;
+    }
+    .button_login {
+        width: 6rem;
+    
+    }
+    .consolas {
+        margin-left: 1rem;
+        width: 7rem;
+        height: 2rem;
+        font-size: 14px;
+        align-items: center;
+    }
+    
+    .lupa {
+        display: inline;
+        background-color: #A2A2A2;
+        border: none;
+        margin-left: 0.62rem;
+    }
+    .lupa_login {
+        display: inline;
+        background-color: #FFFFFF;
+        margin-left: 0.62rem;
+        border: none;
+    
+    }
+    
+    .starwars_title {
+        width: 72%;
+    }
+    
+    .panel_box {
+        width: 90%;
+    }
+    .img_alura {
+        width: 7.5rem;
+    } 
+    .starwars_title h2 {
+margin-left: -13%;
+    }
+    .final_box {
+        flex-direction: column;
+        height: 100%;
+      
+    }
+    .img_alura2 {
+        margin-left: 100%;
+    }
+    .p_text {
+text-align: center;
+    }
+    
+    }
+
+
+
+
+
+
+@media (min-width: 400px) {
+
+    .input_nombre {
+        width: 55%;
+    }
+    .mensajes {
+        width: 55% 
+    }
+    .img_alura2 {
+        margin-left: 30%;
+    }
+}
